@@ -4,7 +4,8 @@ J'adore apprendre de nouveaux langages, et le développement Web est un domaine 
 J'ai commencé mon apprentissage en 2020 en suivant le bootcamp "The Web Developer Bootcamp" de Colt Steele. Une fois terminé, j'ai voulu élargir mes connaissances, et React a immédiatement retenu mon attention. 
 Je suis depuis Octobre 2021 le bootcamp "Complete React Developer" de Andrei Neagoie et Yihua Zang, et malgré malgré la contrainte d'apprendre seul, je suis déterminé à accomplir mon rêve de devenir développeur Web
 
-![Je suis en formation pour devenir developpeur WEB.](https://zupimages.net/up/22/06/1qb2.png)
+(https://user-images.githubusercontent.com/19540380/152857195-29bde764-2f5f-45b3-a6e9-6fdf661f490e.png)
+
 
 Skills: REACT / REDUX / JAVASCRIPT / EXPRESS / HTML / CSS / 
 
