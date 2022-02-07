@@ -12,8 +12,8 @@ Je suis depuis Octobre 2021 le bootcamp "Complete React Developer" de Andrei Nea
 
 Compétences: REACT / REDUX / JAVASCRIPT / EXPRESS / HTML / CSS / Notions de MongoDB et FireBase.
 
-- 🔭 Je travaille actuellement sur site de vêtement (en Code-Along avec le bootcamp) et j'ai pour ambition de créer mon premier site en full React. 
-- 🌱 Actuellement, je suis en plein apprentissage de React et Redux et j'ai hâte de pouvoir en faire mon métier.
+- 🔭 Je travaille actuellement sur site de vêtement (en Code-Along avec le bootcamp React) et j'ai pour ambition de créer mon premier site en full React. 
+- 🌱 Actuellement, je suis en plein apprentissage de React et Redux. j'ai hâte de pouvoir en faire mon métier.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/panderawan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ruddyautem/)  
